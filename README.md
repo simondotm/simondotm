@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github. I'm Simon and I'm a veteran software engineer and technical director.
+Welcome to my Github. I'm Simon and I'm a software engineer and technical director.
 
 <div>  
 <table><tr><td valign="top" width="100%">
