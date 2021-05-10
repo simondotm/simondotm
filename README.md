@@ -32,10 +32,7 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 <div align="center">
   
 <table style="border-collapse: collapse; border: none;"><tr><td valign="middle">
- 
-<a href="https://twitter.com/simondotm" target="_blank">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/simondotm?style=social">
-</a>  
+ <a href="https://twitter.com/simondotm?ref_src=twsrc%5Etfw" target="_blank" class="twitter-follow-button" data-show-count="false">Follow @simondotm</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </td>
 <td valign="middle">
   <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
