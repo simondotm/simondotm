@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://simondotm.github.io/simondotm/images/banner100.png" align="center" style="width: 100%" />
+<img src="https://simondotm.github.io/simondotm/images/banner100.png" align="center" style="width: 130%" />
 </div>  
 
 ### Hi there 👋
@@ -10,6 +10,7 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 - 🌱 I'm a a retro software fan 
 - ⚡ Most if not all of my own projects are open sourced MIT License because I use so much great software made by others, it feels good to give back.
 
+<div align="center">  
 <table><tr><td valign="top" width="100%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="32" />  
@@ -30,40 +31,24 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="32" />  
 </div>
 </td></tr></table>  
+</div>
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/simondotm" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  
+  
+  
 <a href="https://twitter.com/simondotm" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/simondotm?style=social">
 </a>  
-              <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
+  <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
+        align="center"
+    />
+</a>
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=simondotm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-            <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 
 <!--
