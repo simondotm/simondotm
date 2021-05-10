@@ -5,12 +5,12 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 - 🔭 I’m currently working on serverless projects using Google Cloud/Typescript/Node
 - 🌱 I'm a a retro software fan, and you can follow me on [Twitter](https://twitter.com/simondotm) if you like
 - ⚡ Most if not all of my own projects are open sourced MIT License
-- You can also <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
+- 💙 You can also <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
         align="center"
     />
-</a> if you like
+</a> if you've found my projects useful
 
 <div align="center">  
 <table><tr><td valign="top" width="100%">
@@ -35,6 +35,13 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 </td></tr></table>  
 </div>
 
+
+<!--
+![Hi there 👋](http://simondotm.github.io/simondotm/images/marbles.jpg)
+<div align="center">
+<img src="https://simondotm.github.io/simondotm/images/banner100.png" align="center" style="width: 130%" />
+</div>  
+
 <div align="center">
   
 <table style="border-collapse: collapse; border: none;"><tr><td valign="middle">
@@ -54,11 +61,5 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
   
 
 
-
-<!--
-![Hi there 👋](http://simondotm.github.io/simondotm/images/marbles.jpg)
-<div align="center">
-<img src="https://simondotm.github.io/simondotm/images/banner100.png" align="center" style="width: 130%" />
-</div>  
 
 -->
