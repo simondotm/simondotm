@@ -31,13 +31,13 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 
 <div align="center">
   
-<table><tr><td>
+<table style="border-collapse: collapse; border: none;"><tr><td valign="center">
  
 <a href="https://twitter.com/simondotm" target="_blank">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/simondotm?style=social">
 </a>  
 </td>
-<td>
+<td valign="center">
   <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
