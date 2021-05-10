@@ -4,7 +4,7 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 
 - 🔭 I’m currently working on serverless projects using Google Cloud/Typescript/Node
 - 🌱 I'm a a retro software fan 
-- ⚡ Most if not all of my own projects are open sourced MIT License because I use so much great software made by others, it feels good to give back.
+- ⚡ Most if not all of my own projects are open sourced MIT License
 
 <div align="center">  
 <table><tr><td valign="top" width="100%">
@@ -31,20 +31,20 @@ Welcome to my Github. I'm Simon and I'm a veteran software engineer and technica
 
 <div align="center">
   
-<table style="border-collapse: collapse; border: none;"><tr><td valign="center">
+<table style="border-collapse: collapse; border: none;"><tr><td valign="middle">
  
 <a href="https://twitter.com/simondotm" target="_blank">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/simondotm?style=social">
 </a>  
 </td>
-<td valign="center">
+<td valign="middle">
   <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
         align="center"
     />
 </a>
-  </td></table>
+  </td></tr></table>
 </div>  
   
 
