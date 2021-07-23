@@ -28,12 +28,12 @@ Welcome to my Github. I'm Simon and I'm a software engineer and technical direct
 - 🔭 I’m currently working on serverless projects using Google Cloud/Typescript/Node
 - 🌱 I'm a a retro software fan, and you can follow me on [Twitter](https://twitter.com/simondotm) if you like
 - ⚡ Most if not all of my own projects are open sourced MIT License
-- 💙 You can also <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
+- 💙 If you've found my projects useful, you can <a href="https://ko-fi.com/simondotm" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
         align="center"
-    />
-</a> if you've found my projects useful
+    /> if you like!
+</a> 
 
 
 
