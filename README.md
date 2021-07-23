@@ -32,8 +32,8 @@ Welcome to my Github. I'm Simon and I'm a software engineer and technical direct
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange" 
         align="center"
-    /> if you like!
-</a> 
+    /> 
+</a> if you like!
 
 
 
